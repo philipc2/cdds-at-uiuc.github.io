@@ -2,7 +2,7 @@
 title: Group
 layout: teams
 description: Group
-permalink: "/team/"
+permalink: "/group/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
