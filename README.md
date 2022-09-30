@@ -1,1 +1,1 @@
-# CDDS @ UIUC Group Website!
+# Welcome to the CDDS @ UIUC website!
