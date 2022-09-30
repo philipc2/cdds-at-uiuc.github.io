@@ -1,7 +1,7 @@
 ---
-title: Jekyll Serif Theme
+title: CDDS @ UIUC
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: The Climate Dynamics and Data Science group at the University of Illinois at Urbana Champaign.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
