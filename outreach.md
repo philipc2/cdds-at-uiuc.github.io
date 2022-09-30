@@ -1,8 +1,7 @@
 ---
-title: Outreach
-layout: page
-description: Outreach activities organized by CDDS@UIUC members.
-bodyClass: page-about
+title: Contact
+layout: contact
+description: Contact
 ---
 
-# Does this add a link on the top bar? 
+# now ? 
