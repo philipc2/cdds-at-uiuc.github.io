@@ -10,4 +10,4 @@ show_call_box: true
 
 # Climate Dynamics and Data Science at UIUC
 
-Tackling the science of climate change and how it will impact the world..
+Tackling the science of climate change and how it will impact the world.
