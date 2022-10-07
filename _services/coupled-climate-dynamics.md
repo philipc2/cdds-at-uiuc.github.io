@@ -1,10 +1,10 @@
 ---
-title: "Accounting"
-date: 2018-11-18T12:33:46+10:00
+title: "Coupled Climate Dynamics"
+date: 2022-10-7T12:33:46+10:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Our work on coupled climate dynamics involves doing stuff with things, as well as things with stuff.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
