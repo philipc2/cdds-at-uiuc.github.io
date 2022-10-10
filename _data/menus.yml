@@ -5,12 +5,18 @@ main:
   - name: "Group"
     url: "/group/"
     weight: 3
+  - name: "Publications"
+    url: "/pubs/"
+    weight: 4
+  - name: "Events"
+    url: "/events/"
+    weight: 5
   - name: "Classes"
     url: "/classes/"
-    weight: 4
+    weight: 6
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 7
 
 footer:
   - name: "Home"
