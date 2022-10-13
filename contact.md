@@ -4,7 +4,8 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+If you're interested in our work or want to grab a cup of coffee, feel free to reach out via the information above to reach Cristi. If you're interested in chatting with one of the group's members, see their profile pages for their emails.
+
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
