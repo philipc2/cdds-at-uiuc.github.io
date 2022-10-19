@@ -8,7 +8,7 @@ We are merging simple climate models and financial asset pricing models to asses
 
 ![Solar Panels](/images/climate-econ-header.jpg)
 
-# Group members involved
+## Group members involved
 Adam Bauer
 
 # Research questions
