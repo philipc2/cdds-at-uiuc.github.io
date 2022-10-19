@@ -1,5 +1,5 @@
 ---
-title: "Coupled Climate Dynamics"
+title: "Coupled climate dynamics"
 date: 2022-10-7T12:33:46+10:00
 weight: 1
 ---
