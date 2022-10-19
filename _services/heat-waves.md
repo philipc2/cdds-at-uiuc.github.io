@@ -8,8 +8,10 @@ We are interested in formulating conceptual models that elucidate the fundamenta
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Group members involved
+## Group members involved
 Adam Bauer
+
+---
 
 # Main questions
 
@@ -19,10 +21,12 @@ Adam Bauer
 
 ## How do land-atmosphere interactions collude in creating heat waves?
 
-
+---
 
 # Highlighted work
 Coming soon, hopefully.
 
-# Funding sources
+---
+
+## Funding sources
 ?
