@@ -8,7 +8,7 @@ Atmosphere, oceans, biomass, glaciers and land surface as interacting components
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-## Group Members Involved
+## Group members involved
 Tyler Hanke, Pappu Paul, Maddie Stover, Rachel Tam, Jennifer Chen, Jay Pallai
 
 ---
