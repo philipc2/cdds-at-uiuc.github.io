@@ -8,6 +8,7 @@ promoted: false
 weight: 2
 ---
 
+**Email:** adammb4 [at] illinois [dot] edu
 **Website:** [https://adam-bauer-34.github.io/](https://adam-bauer-34.github.io/)
 
 Adam joined CDDS@UIUC in 2020 as a graduate research assistant. He works on the physics of heat waves and climate economics. He also organizes the Climate Discussion Group.
