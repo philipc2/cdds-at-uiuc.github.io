@@ -20,7 +20,7 @@ Our groups' most recent publications! CDDS members are bolded.
 Huybers, P., Liautaud, P., **Proistosescu, C.** , Boulahanis, B.,  Carbotte, S. M., Katz, R. F., Langmuir, C. Influence of late Pleistocene sea-level variations on mid-ocean ridge spacing in faulting simulations and a global analysis of bathymetry. _Proceedings of the National Academy of Sciences_, 119(28), 2022. [https://doi.org/10.1073/pnas.2204761119](https://doi.org/10.1073/pnas.2204761119)
 
 Dvorak, M. T., Armour, K. C., Frierson, D. M. W., **Proistosescu, C.**, Smith, C. J., Baker, M. B. Estimating the timing of geophysical commitment
-to 1.5 and 2.0 &#8451;C of global warming. _Nature Climate Change_, 12, 2022. [https://doi.org/10.1038/s41558-022-01372-y](https://doi.org/10.1038/s41558-022-01372-y)
+to 1.5 and 2.0 &#8451; of global warming. _Nature Climate Change_, 12, 2022. [https://doi.org/10.1038/s41558-022-01372-y](https://doi.org/10.1038/s41558-022-01372-y)
 
 Dong, Y., Armour, K. C., **Proistosescu, C.**, Andrews, T.,  Battisti, T. S., Forster, P. M.,  Paynter, D., Smith, C. J., Shiogama, H. Biased estimates of Equilibrium Climate Sensitivity and Transient Climate Response derived from historical CMIP6 simulations. _Geophysical Research Letters_, 48(24), 2021. [https://doi.org/10.1029/2021GL095778](https://doi.org/10.1029/2021GL095778)
 
