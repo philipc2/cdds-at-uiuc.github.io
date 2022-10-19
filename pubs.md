@@ -20,7 +20,7 @@ Our groups' most recent publications! CDDS members are bolded.
 Huybers, P., Liautaud, P., **Proistosescu, C.** , Boulahanis, B.,  Carbotte, S. M., Katz, R. F., Langmuir, C. Influence of late Pleistocene sea-level variations on mid-ocean ridge spacing in faulting simulations and a global analysis of bathymetry. _Proceedings of the National Academy of Sciences_, 119(28), 2022. [https://doi.org/10.1073/pnas.2204761119](https://doi.org/10.1073/pnas.2204761119)
 
 Dvorak, M. T., Armour, K. C., Frierson, D. M. W., **Proistosescu, C.**, Smith, C. J., Baker, M. B. Estimating the timing of geophysical commitment
-to 1.5 and 2.0 &#8451C of global warming. _Nature Climate Change_, 12, 2022. [https://doi.org/10.1038/s41558-022-01372-y](https://doi.org/10.1038/s41558-022-01372-y)
+to 1.5 and 2.0 &#8451&C of global warming. _Nature Climate Change_, 12, 2022. [https://doi.org/10.1038/s41558-022-01372-y](https://doi.org/10.1038/s41558-022-01372-y)
 
 Dong, Y., Armour, K. C., **Proistosescu, C.**, Andrews, T.,  Battisti, T. S., Forster, P. M.,  Paynter, D., Smith, C. J., Shiogama, H. Biased estimates of Equilibrium Climate Sensitivity and Transient Climate Response derived from historical CMIP6 simulations. _Geophysical Research Letters_, 48(24), 2021. [https://doi.org/10.1029/2021GL095778](https://doi.org/10.1029/2021GL095778)
 
@@ -43,7 +43,7 @@ Dong, Y., Armour, K. C., Zelinka, M. D., **Proistosescu, C.**, Battisti, D. S., 
 
 Parsons, L. A., Brennan, M. K., Wills, R. C. J., **Proistosescu, C.** Magnitudes and Spatial Patterns of Interdecadal Temperature Variability in CMIP6. _Geophysical Research Letters_, 47(7), 2020. [https://doi.org/10.1029/2019GL086588](https://doi.org/10.1029/2019GL086588)
 
-Loeb, N. G., Wang, H., Allan, R. P., Andrews, T., Armour, K., Cole, J. N. S., Dufresne, J., Forster, P., Gettelman, A., Guo, H., Mauritsen, T., Ming, Y., Paynter, D., **Proistosescu, C.**, Stuecker, M. F., Will&eacuten, U., & Wyser, K. New Generation of Climate Models Track Recent Unprecedented Changes in Earth’s Radiation Budget Observed by CERES. _Geophysical Research Letters_, 47(5), 2020. [https://doi.org/10.1029/2019GL086705](https://doi.org/10.1029/2019GL086705)
+Loeb, N. G., Wang, H., Allan, R. P., Andrews, T., Armour, K., Cole, J. N. S., Dufresne, J., Forster, P., Gettelman, A., Guo, H., Mauritsen, T., Ming, Y., Paynter, D., **Proistosescu, C.**, Stuecker, M. F., Will&eacute&n, U., & Wyser, K. New Generation of Climate Models Track Recent Unprecedented Changes in Earth’s Radiation Budget Observed by CERES. _Geophysical Research Letters_, 47(5), 2020. [https://doi.org/10.1029/2019GL086705](https://doi.org/10.1029/2019GL086705)
 
 Stuecker, M. F., Timmermann, A., Jin, F.-F., **Proistosescu, C.**, Kang, S. M., Kim, D., Yun, K.-S., Chung, E.-S., Chu, J.-E., Bitz, C. M., Armour, K. C., Hayashi, M. Strong remote control of future equatorial warming by off-equatorial forcing. _Nature Climate Change_, 10(2), 2020. [https://doi.org/10.1038/s41558-019-0667-6](https://doi.org/10.1038/s41558-019-0667-6)
 
