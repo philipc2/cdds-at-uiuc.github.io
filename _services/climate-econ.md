@@ -8,13 +8,14 @@ We are merging simple climate models and financial asset pricing models to asses
 
 ![Solar Panels](/images/climate-econ-header.jpg)
 
-# Research projects
+# Group members involved
+Adam Bauer
 
-## Implementing a simple climate model in a financial asset pricing model
+# Research questions
 
-**Group members involved:** Adam Bauer
+## What are the implications of using financial asset pricing models for climate policy?
 
-Integrated assessment models (IAM) are the state-of-the-art tool for policymakers in assessing the benefits and costs of climate policy. However, until recently, IAMs lacked accurate representations of the climate system. One such IAM is `EZClimate`, a financial asset pricing model that treats CO<sub>2</sub> as an asset with negative returns. We are working on embedding a simple climate emulator into `EZClimate`, as well as updating each of its components to be in line with the sixth assessment report released by the IPCC. 
+xxx
 
 # Highlighted work
 
