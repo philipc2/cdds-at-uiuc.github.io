@@ -21,6 +21,6 @@ Integrated assessment models (IAM) are the state-of-the-art tool for policymaker
 **Proistosescu, C.** and Wagner, G. Uncertainties in Climate and Weather Extremes Increase the Cost of Carbon. _One Earth_, 2(6), 2020. [https://doi.org/10.1016/j.oneear.2020.06.002](https://doi.org/10.1016/j.oneear.2020.06.002)
 
 ## Funding sources
-- The Gies College of Business Office of Risk Management and Insurance at the University of Illinois at Urbana Champaign
-- The Tamer School of Social Enterprise
+- The Gies College of Business Office of Risk Management and Insurance at the University of Illinois at Urbana Champaign.
+- The Tamer School of Social Enterprise.
 - The Jain Family Institute. 
