@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Research topics we're working on
 
-If you're interested in more details on anything we're working on, contact Cristi or any of the grad students working on your topic of interest?
+If you're interested in more details on anything we're working on, contact Cristi or any of the grad students working on your topic of interest.
