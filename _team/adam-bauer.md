@@ -8,11 +8,11 @@ promoted: false
 weight: 2
 ---
 
-Adam is a graduate student in the Department of Physics at the University of Illinois. He joined CDDS@UIUC in 2020, where he began working on two projects: one related to the physics of heat waves/extreme events, and another related to climate economics. Broadly speaking, he is interested in theoretical approaches to climate change related problems, and specializes in dynamical systems. He earned an NSF GRFP in 2022. He also organizes the Climate Discussion Group with Tyler Hanke and Rachel Tam, and is a part of the graduate-undergraduate peer mentoring program in the Department of Atmospheric Sciences at UIUC.
+Adam is a graduate student in the Department of Physics at the University of Illinois. He joined CDDS@UIUC in 2021, where he began working on two projects: one related to the physics of heat waves/extreme events, and another related to climate economics. Broadly speaking, he is interested in theoretical approaches to climate change related problems, and specializes in dynamical systems. He also organizes the Climate Discussion Group with Tyler Hanke and Rachel Tam, and is a part of the graduate-undergraduate peer mentoring program in the Department of Atmospheric Sciences at UIUC. He earned an NSF GRFP in 2022.
 
-Adam did his undergraduate studies at the University of Arizona where he double majored in physics and mathematics, and minored in astronomy. At UArizona, he primarily focused on problems in astrophysics. He worked on numerous projects related to understanding massive galaxy clusters, the fluid mechanics of the solar wind, and the inner horizon(s) of black holes. His won the Excellence in Undergraduate Research Award from the UArizona College of Science for his efforts in each of these fields.
+Adam did his undergraduate studies at the University of Arizona where he double majored in physics and mathematics, and minored in astronomy. At UArizona, he primarily focused on problems in astrophysics. He worked on numerous projects related to understanding massive galaxy clusters, the fluid mechanics of the solar wind, and the inner horizon(s) of black holes. He won the Excellence in Undergraduate Research Award from the UArizona College of Science for his efforts in each of these fields.
 
-In his spare time, Adam climbs. A lot. He also plays and studys a lot of chess. He enjoys reading, especially books on history, economics, and philosophy, as well as really, really corny self-help books. He listens to way too many podcasts and a bunch of music. He also loves sports and lives and dies by the Buffalo Bills.
+In his spare time, Adam climbs. A lot. He also plays and studies chess. He enjoys reading, especially books on history, economics, and philosophy, as well as really, really corny self-help books. He listens to way too many podcasts and a bunch of music. He also loves sports and lives and dies by the Buffalo Bills.
 
 ---
 ## Selected publications
