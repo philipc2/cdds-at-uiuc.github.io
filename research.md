@@ -1,7 +1,7 @@
 ---
-title: Services
+title: Research Topics
 layout: services
-description: Services
+description: Research Topics
 intro_image: "images/illustrations/stylized_keeling_2.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
