@@ -1,5 +1,5 @@
 ---
-title: “ATMS140: Climate and global change”
+title: “ATMS140: Climate and Global Change”
 date: 2022-10-7T15:14:54+10:00
 weight: 1
 ---
