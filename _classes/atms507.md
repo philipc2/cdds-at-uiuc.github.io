@@ -8,22 +8,4 @@ Magnets, how do they work? Not sure about this one.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-## Group members involved
-
-Philip Chmielowiec
-
-—
-
-# Research Questions
-
-## ???
-
-asdf 
-
-—
-# Highlighted work
-Coming soon, hopefully.
-
-—
-## Funding sources
-Coming soon, hopefully.
+?
