@@ -4,8 +4,19 @@ date: 2022-10-7T15:14:54+10:00
 weight: 4
 ---
 
-Magnets, how do they work? Not sure about this one.
+Short description goes here.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-?
+## Organizer(s)
+**Cristi Proistosescu**, et al ?
+
+--
+# Logistics
+## Format
+
+
+## Schedule
+
+
+## Location
