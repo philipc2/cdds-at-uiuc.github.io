@@ -11,7 +11,7 @@ Short description goes here.
 ## Organizer(s)
 **Cristi Proistosescu**, et al ?
 
---
+---
 # Logistics
 ## Format
 

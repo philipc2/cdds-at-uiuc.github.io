@@ -11,7 +11,7 @@ Short description goes here.
 ## Students-in-charge
 Maddie Stover
 
---
+---
 # Logistics
 ## Format
 
