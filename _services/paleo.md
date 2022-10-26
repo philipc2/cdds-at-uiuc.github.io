@@ -1,7 +1,7 @@
 ---
 title: "Paleoclimate"
 date: 2022-10-7T15:15:34+10:00
-weight: 3
+weight: 7
 ---
 
 Using past climate proxies to constrain future climate projections. 
