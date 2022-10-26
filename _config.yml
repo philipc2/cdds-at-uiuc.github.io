@@ -19,6 +19,10 @@ collections:
     sort_by: weight
   team:
     output: true
+  events:
+    output: true
+  classes:
+    output: true
 
 defaults:
   - scope:
