@@ -1,7 +1,7 @@
 ---
 title: "Mitigation strategies and renewable energy"
 date: 2022-10-7T15:14:54+10:00
-weight: 3
+weight: -1
 ---
 
 Magnets, how do they work? Not sure about this one.
