@@ -10,7 +10,7 @@ Magnets, how do they work? Not sure about this one.
 
 ## Group members involved
 
-Philip Chmielowiec
+[Philip Chmielowiec](https://cdds-at-uiuc.github.io/team/philip-chmielowiec/)
 
 ---
 

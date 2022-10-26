@@ -10,7 +10,7 @@ Using past climate proxies to constrain future climate projections.
 
 ## Group members involved
 
-Maile Sasaki, Anay Patel, Becca Stout
+[Maile Sasaki](https://cdds-at-uiuc.github.io/team/maile-sasaki/), [Anay Patel](https://cdds-at-uiuc.github.io/team/anay-patel/), [Becca Stout](https://cdds-at-uiuc.github.io/team/becca-stout/)
 
 ---
 
