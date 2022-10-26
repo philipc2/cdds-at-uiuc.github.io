@@ -18,11 +18,11 @@ Using past climate proxies to constrain future climate projections.
 
 ## How were major climate processes such as radiative feedbacks & forcing different during past climate change events (e.g. Ice Ages)?
 
-xxx
+During past climate change events, the main causes were either natural variability or natural forcing. This is very different from today, where the main cause of global warming is anthropogenic greenhouse gasses and other human activities. Natural variability includes weather and various interactions between the atmosphere and other elements of the earth system, like the ocean or land. Natural forcing can include variations in the Sun's activity and volcanic eruptions, which can have drastic effects if large enough.
 
 ## How can these processes be constrained from proxy information and how can they inform on future warming?
 
-uuu
+One of the biggest problems facing climatologists today is the lack of climate records we have. Instrumental records only go back around a hundred years and only contain information after the Industrial Revolution. So, any natural variability in our climate can be mistaken for anthropogenic climate change, and vice versa. Proxies are natural records of climate processes from the past, like tree rings (which record precipitation) and ice cores (which record air samples through bubbles of air trapped inside). By learning from these proxies how our climate was in the past, we can constrain natural variability to improve climate projections.
 
 ---
 
