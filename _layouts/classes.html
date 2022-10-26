@@ -20,14 +20,14 @@ bodyClass: "page-services"
 
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% for class in site.classes %}
+    {% for service in site.classes %}
     <div class="col-12 col-md-6 mb-3">
-      <div class="class class-summary">
-        <div class="class-content">
-          <h2 class="class-title">
-            <a href="{{ class.url | relative_url }}">{{ class.title }}</a>
+      <div class="service service-summary">
+        <div class="service-content">
+          <h2 class="service-title">
+            <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
           </h2>
-          <p>{{ class.content | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
         </div>
       </div>
     </div>
