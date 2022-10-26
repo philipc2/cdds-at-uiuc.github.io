@@ -9,7 +9,7 @@ Atmosphere, oceans, biomass, glaciers and land surface as interacting components
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 ## Group members involved
-[Tyler Hanke](https://cdds-at-uiuc.github.io/team/tyler-hanke/), [Pappu Pau](https://cdds-at-uiuc.github.io/team/pappu-paul/), [Maddie Stover](https://cdds-at-uiuc.github.io/team/maddie-stover/), [Rachel Tam](https://cdds-at-uiuc.github.io/team/rachel-tam/), [Jennifer Chen](https://cdds-at-uiuc.github.io/team/jennifer-chen/), [Jay Pallai](https://cdds-at-uiuc.github.io/team/jay-pallai/)
+[Tyler Hanke](https://cdds-at-uiuc.github.io/team/tyler-hanke/), [Pappu Paul](https://cdds-at-uiuc.github.io/team/pappu-paul/), [Maddie Stover](https://cdds-at-uiuc.github.io/team/maddie-stover/), [Rachel Tam](https://cdds-at-uiuc.github.io/team/rachel-tam/), [Jennifer Chen](https://cdds-at-uiuc.github.io/team/jennifer-chen/), [Jay Pallai](https://cdds-at-uiuc.github.io/team/jay-pallai/)
 
 ---
 
