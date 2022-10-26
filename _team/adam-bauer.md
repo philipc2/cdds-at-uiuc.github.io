@@ -17,6 +17,8 @@ weight: 2
 
 **Website:** [https://adam-bauer-34.github.io/](https://adam-bauer-34.github.io/)
 
+**LinkedIn**: [https://www.linkedin.com/in/adam-michael-bauer-380492200/](https://www.linkedin.com/in/adam-michael-bauer-380492200/)
+
 **ORCID:** [0000-0002-7471-8934](https://orcid.org/0000-0002-7471-8934)
 
 **Pronouns**: he/him
