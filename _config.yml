@@ -31,6 +31,16 @@ defaults:
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: ""
+      type: "classes"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "service"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
