@@ -9,7 +9,7 @@ weight: 2
 ---
 
 ---
-## Quick links
+## Quick hitters
 
 **Email:** adammb4 [at] illinois [dot] edu
 
@@ -18,6 +18,8 @@ weight: 2
 **Website:** [https://adam-bauer-34.github.io/](https://adam-bauer-34.github.io/)
 
 **ORCID:** [0000-0002-7471-8934](https://orcid.org/0000-0002-7471-8934)
+
+**Pronouns**: he/him
 
 ---
 Adam is a graduate student in the Department of Physics at the University of Illinois. He joined CDDS@UIUC in 2021, where he began working on two projects: one related to the physics of heat waves/extreme events, and another related to climate economics. Broadly speaking, he is interested in theoretical approaches to climate change related problems, and specializes in dynamical systems. He also organizes the Climate Discussion Group with Tyler Hanke and Rachel Tam, and is a part of the graduate-undergraduate peer mentoring program in the Department of Atmospheric Sciences at UIUC. He earned an NSF GRFP in 2022.
