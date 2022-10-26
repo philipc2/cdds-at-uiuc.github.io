@@ -11,19 +11,14 @@ weight: 2
 ---
 ## Quick hitters
 
-**Email:** adammb4 [at] illinois [dot] edu
+**Email:** adammb4 [at] illinois [dot] edu                    **CV**: [Link (last updated 10/26/2022)](/cvs/Bauer_CV.pdf)
 
-**CV**: [Link (last updated 10/26/2022)](/cvs/Bauer_CV.pdf)
+**Website:** [https://adam-bauer-34.github.io/](https://adam-bauer-34.github.io/)                    **LinkedIn**: [https://www.linkedin.com/in/adam-michael-bauer-380492200/](https://www.linkedin.com/in/adam-michael-bauer-380492200/)
 
-**Website:** [https://adam-bauer-34.github.io/](https://adam-bauer-34.github.io/)
-
-**LinkedIn**: [https://www.linkedin.com/in/adam-michael-bauer-380492200/](https://www.linkedin.com/in/adam-michael-bauer-380492200/)
-
-**ORCID:** [0000-0002-7471-8934](https://orcid.org/0000-0002-7471-8934)
-
-**Pronouns**: he/him
+**ORCID:** [0000-0002-7471-8934](https://orcid.org/0000-0002-7471-8934)                    **Pronouns**: he/him
 
 ---
+## Bio
 Adam is a graduate student in the Department of Physics at the University of Illinois. He joined CDDS@UIUC in 2021, where he began working on two projects: one related to the physics of heat waves/extreme events, and another related to climate economics. Broadly speaking, he is interested in theoretical approaches to climate change related problems, and specializes in dynamical systems. He also organizes the Climate Discussion Group with Tyler Hanke and Rachel Tam, and is a part of the graduate-undergraduate peer mentoring program in the Department of Atmospheric Sciences at UIUC. He earned an NSF GRFP in 2022.
 
 Adam did his undergraduate studies at the University of Arizona where he double majored in physics and mathematics, and minored in astronomy. At UArizona, he primarily focused on problems in astrophysics. He worked on numerous projects related to understanding massive galaxy clusters, the fluid mechanics of the solar wind, and the inner horizon(s) of black holes. He won the Excellence in Undergraduate Research Award from the UArizona College of Science for his efforts in each of these fields.
