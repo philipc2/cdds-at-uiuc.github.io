@@ -11,11 +11,17 @@ weight: 2
 ---
 ## Quick hitters
 
-**Email:** adammb4 [at] illinois [dot] edu                    **CV**: [Link (last updated 10/26/2022)](/cvs/Bauer_CV.pdf)
+**Email:** adammb4 [at] illinois [dot] edu 
 
-**Website:** [https://adam-bauer-34.github.io/](https://adam-bauer-34.github.io/)                    **LinkedIn**: [https://www.linkedin.com/in/adam-michael-bauer-380492200/](https://www.linkedin.com/in/adam-michael-bauer-380492200/)
+**CV**: [Link (last updated 10/26/2022)](/cvs/Bauer_CV.pdf)
 
-**ORCID:** [0000-0002-7471-8934](https://orcid.org/0000-0002-7471-8934)                    **Pronouns**: he/him
+**Website:** [https://adam-bauer-34.github.io/](https://adam-bauer-34.github.io/)
+
+**LinkedIn**: [https://www.linkedin.com/in/adam-michael-bauer-380492200/](https://www.linkedin.com/in/adam-michael-bauer-380492200/)
+
+**ORCID:** [0000-0002-7471-8934](https://orcid.org/0000-0002-7471-8934)
+
+**Pronouns**: he/him
 
 ---
 ## Bio
