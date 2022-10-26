@@ -9,7 +9,7 @@ We are studying how climate risk impacts the cost of carbon dioxide emissions.
 ![Solar Panels](/images/climate-econ-header.jpg)
 
 ## Group members involved
-Adam Bauer
+[Adam Bauer](https://cdds-at-uiuc.github.io/team/adam-bauer/)
 
 ---
 

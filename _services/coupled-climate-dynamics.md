@@ -9,7 +9,7 @@ Atmosphere, oceans, biomass, glaciers and land surface as interacting components
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 ## Group members involved
-Tyler Hanke, Pappu Paul, Maddie Stover, Rachel Tam, Jennifer Chen, Jay Pallai
+[Tyler Hanke](https://cdds-at-uiuc.github.io/team/tyler-hanke/), [Pappu Pau](https://cdds-at-uiuc.github.io/team/pappu-paul/), [Maddie Stover](https://cdds-at-uiuc.github.io/team/maddie-stover/), [Rachel Tam](https://cdds-at-uiuc.github.io/team/rachel-tam/), [Jennifer Chen](https://cdds-at-uiuc.github.io/team/jennifer-chen/), [Jay Pallai](https://cdds-at-uiuc.github.io/team/jay-pallai/)
 
 ---
 
@@ -20,7 +20,7 @@ Tyler Hanke, Pappu Paul, Maddie Stover, Rachel Tam, Jennifer Chen, Jay Pallai
 El Nino stuff..
 
 ## How does the warming pattern feed back into atmospheric clouds and circulation? 
-The climate system’s response to the imposed warming is defined as feedback, which may amplify or dampen the magnitude of warming. The evolving pattern of surface warming is found to be the main driver of the varying feedback, termed as the pattern effect. Clouds, which can give both positive and negative feedback, serve as the major source of uncertainty in determining the global feedback. (concluding sentence?)
+The climate system's response to the imposed warming is defined as feedback, which may amplify or dampen the magnitude of warming. The evolving pattern of surface warming is found to be the main driver of the varying feedback, termed as the pattern effect. Clouds, which can give both positive and negative feedback, serve as the major source of uncertainty in determining the global feedback. (concluding sentence?)
 
 ---
 
