@@ -11,7 +11,7 @@ The Climate Discussion Group is a student-led, biweekly reading group that discu
 ## Students-in-charge
 Adam Bauer, Tyler Hanke, and Rachel Tam
 
---
+---
 # Logistics
 ## Format
 Before each meeting, a student presenter will propose a paper of interest and present it to the group for about 20 minutes. We have an open discussion thereafter. CDG is very informal, and students of all levels are welcome! *Please email a student-in-charge to get added to the listserv and get any more details.*
