@@ -5,7 +5,7 @@ description: CDDS Publications
 bodyClass: page-about
 ---
 
-Our groups' most recent publications! CDDS members are bolded.
+### Our groups' most recent publications! CDDS members are bolded.
 
 ---
 
