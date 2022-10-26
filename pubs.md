@@ -24,7 +24,7 @@ to 1.5 and 2.0 &#8451; of global warming. _Nature Climate Change_, 12, 2022. [
 
 Dong, Y., Armour, K. C., **Proistosescu, C.**, Andrews, T.,  Battisti, T. S., Forster, P. M.,  Paynter, D., Smith, C. J., Shiogama, H. Biased estimates of Equilibrium Climate Sensitivity and Transient Climate Response derived from historical CMIP6 simulations. _Geophysical Research Letters_, 48(24), 2021. [https://doi.org/10.1029/2021GL095778](https://doi.org/10.1029/2021GL095778)
 
-Albright, A. L., **Proistosescu, C.**, Huybers, P. Origins of a relatively tight lower bound on anthropogenic aerosol radiative forcing from Bayesian analysis of historical observations. _Journal of Climate_, 34(21), 2021. [https://doi.org/10.1175/JCLI-D-21-0167.1](https://doi.org/10.1175/JCLI-D-21-0167.1)
+**Albright, A. L.**, **Proistosescu, C.**, Huybers, P. Origins of a relatively tight lower bound on anthropogenic aerosol radiative forcing from Bayesian analysis of historical observations. _Journal of Climate_, 34(21), 2021. [https://doi.org/10.1175/JCLI-D-21-0167.1](https://doi.org/10.1175/JCLI-D-21-0167.1)
 
 Wills, R. C. J., Armour, K. C., Battisti, D. S., **Proistosescu, C.**, Parsons, L. A. Slow Modes of Global Temperature Variability and Their Impact on Climate Sensitivity Estimates. _Journal of Climate_, 34(21), 2021. [https://doi.org/10.1175/JCLI-D-20-1013.1](https://doi.org/10.1175/JCLI-D-20-1013.1)
 
