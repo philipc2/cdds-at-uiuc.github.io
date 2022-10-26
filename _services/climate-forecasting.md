@@ -10,7 +10,7 @@ Refine climate models projection by providing constraints with historical observ
 
 ## Group members involved
 
-[Abby McDonnell](https://cdds-at-uiuc.github.io/team/abby-mcdonnell/)
+[Abby McDonnell](https://cdds-at-uiuc.github.io/team/abby-mcdonnell/), [Anna Lea Albright](https://cdds-at-uiuc.github.io/team/anna-lea-albright/)
 
 ---
 
