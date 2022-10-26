@@ -1,5 +1,5 @@
 ---
-title: “Climate Discussion Group”
+title: Climate Discussion Group
 date: 2022-10-7T15:14:54+10:00
 weight: 1
 ---

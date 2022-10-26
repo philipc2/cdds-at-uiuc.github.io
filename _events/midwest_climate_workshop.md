@@ -1,7 +1,7 @@
 ---
-title: “Midwest Climate Workshop”
+title: Midwest Climate Workshop
 date: 2022-10-7T15:14:54+10:00
-weight: 1
+weight: 4
 ---
 
 Magnets, how do they work? Not sure about this one.

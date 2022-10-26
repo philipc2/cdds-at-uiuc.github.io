@@ -1,7 +1,7 @@
 ---
-title: “Women and Gender Minorities Lunch”
+title: Women and Gender Minorities Lunch
 date: 2022-10-7T15:14:54+10:00
-weight: 1
+weight: 2
 ---
 
 Magnets, how do they work? Not sure about this one.

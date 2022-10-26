@@ -1,5 +1,5 @@
 ---
-title: “ATMS507 -- Advanced climate dynamics”
+title: ATMS507: Advanced Climate Dynamics
 date: 2022-10-7T15:14:54+10:00
 weight: 2
 ---

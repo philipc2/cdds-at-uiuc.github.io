@@ -21,8 +21,10 @@ collections:
     output: true
   events:
     output: true
+    sort_by: weight
   classes:
     output: true
+    sort_by: weight
 
 defaults:
   - scope:
