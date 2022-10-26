@@ -4,7 +4,7 @@ date: 2022-10-7T15:14:54+10:00
 weight: 6
 ---
 
-At CDDS @ UIUC, we're always tackling out new areas of research we don't have experience in. 
+At CDDS @ UIUC, we're always looking for new, exciting areas of research to explore. 
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
