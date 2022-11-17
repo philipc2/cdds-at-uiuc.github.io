@@ -4,8 +4,14 @@ date: 2022-10-7T15:14:54+10:00
 weight: 3
 ---
 
-?
+A course of machine learning and its applications in climate science.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-?
+Lecture course in topics of current interest; subjects such as tropical meteorology, aerosol physics, and geophysical fluid dynamics will be covered in term offerings on a regular basis. 
+
+0 to 4 graduate hours. No professional credit. 
+
+Approved for Letter and S/U grading. 
+
+Prerequisite: Graduate standing or consent of instructor.
