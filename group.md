@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet Our Group!
 
-How would we describe ourselves? 
+We are a diverse, motivated group of scientists, all focused on tackling the problem of climate change from a variety of angles.
