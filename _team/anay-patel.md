@@ -30,6 +30,6 @@ Anay grew up in Schaumburg, Illinois, a moderately sized Chicago suburb, so he i
 ---
 ## Featured work
 
-**A. Patel**, C. Proistosescu. Evaluating the skill of linear models of salinity and &delta;<sup>18</sup>O<sub>SW</sub> using isotope-enabled climate models. [Poster](/posters/patel_skill_linear_models.pdf)
+**A. Patel**, C. Proistosescu. Evaluating the skill of linear models of salinity and &delta;<sup>18</sup>O<sub>SW</sub> using isotope-enabled climate models. [Poster](/posters/patel_skill_linear_models_poster.pdf)
 
 **A. Patel**, K. Wallington. Phosphorus pollution in Lake Erie. [Poster](/posters/patel_phos_poll_in_lake_erie_poster.pdf)
