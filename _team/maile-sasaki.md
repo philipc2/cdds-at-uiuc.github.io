@@ -12,7 +12,7 @@ weight: 5
 
 **Email:** mailes2 [at] illinois [dot] edu 
 
-**CV**: [Link (last updated 11/08/2022)](/cvs/maile_curriculum_vitae_110822.pdf)
+**CV**: [Link (last updated 11/17/2022)](/cvs/cv_11_17_22_mailes.pdf)
 
 **Pronouns**: she/her
 
