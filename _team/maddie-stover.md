@@ -8,6 +8,26 @@ promoted: false
 weight: 6
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+---
+## Quick hitters
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Email:** mstover2 [at] illinois [dot] edu 
+
+**CV**: [Link (last updated 11/18/2022)](/cvs/CV_Madeline_Stover.pdf)
+
+**LinkedIn**: [https://www.linkedin.com/in/madeline-stover-b7a41013a/](https://www.linkedin.com/in/madeline-stover-b7a41013a/)
+
+**Pronouns**: she/her
+
+---
+## Bio
+As a graduate researcher, Maddie is interested in climate dynamics. The motivation of her current research is to improve estimates of climate sensitivity by placing an observational constraint on one of its largest sources of uncertainty: the pattern effect. She is approaching this with a Bayesian framework and is using a Gaussian process to encode the spatial pattern of radiative response. As a student and community member, Maddie is interested in science outreach and DEIJ (diversity, equity, inclusion, and justice) in academia. She serves as a diversity ambassador of the College of Engineering and is involved with various projects as a member of the education and justice working group of the Student Sustainability Committee.
+
+As an undergraduate at Kenyon College, Maddie studied gravitational wave astrophysics. She was also involved with physics outreach, music, and mental health advocacy.
+
+Maddie speaks very beginner French and has extensive knowledge of Ohio voter registration and running stress injuries. Feel free to reach out – she is happy to chat about research, outreach, or student life!
+
+
+---
+## Featured work
+Coming soon! :)
