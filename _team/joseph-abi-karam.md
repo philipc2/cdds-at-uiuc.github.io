@@ -8,4 +8,23 @@ promoted: false
 weight: 8
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+---
+## Quick hitters
+
+**Email:** jja7 [at] illinois [dot] edu 
+
+**CV**: [Link (last updated 11/19/2022)](/cvs/abi_karam_cv.pdf)
+
+**Handshake:** [https://app.joinhandshake.com/stu/users/32837183](https://app.joinhandshake.com/stu/users/32837183)
+
+**Pronouns**: he/him
+
+---
+## Bio
+Joseph is an undergraduate student in the Department of Physics at the University of Illinois Urbana Champaign. He joined CDDS@UIUC in spring 2022, where he learnt the fundamentals of `Python`. Joseph is now beginning a project at the intersection of renewable energy and climate science. He is interested in addressing climate change issues by getting into the renewable energy sector later on in his career. He personalized his own physics degree by taking classes that will help him reach his very specific career goals. He is also pursuing a minor in Atmospheric Sciences, which covers topics he was passionate about since his early childhood.
+
+Joseph grew up in Lebanon, a tiny and very diverse country in the Middle East. He speaks three languages fluently: French, Arabic, and English. In his spare time, Joseph enjoys the outdoors and really loves mountain sports such as biking, rock climbing, hiking and most importantly skiing. He has also played piano since he was 6 years old.
+
+---
+## Featured work
+Coming soon! :) 
