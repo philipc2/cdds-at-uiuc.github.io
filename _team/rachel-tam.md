@@ -8,6 +8,29 @@ promoted: false
 weight: 7
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+---
+## Quick hitters
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Email:** rytam2 [at] illinois [dot] edu 
+
+**CV**: [Link (last updated 11/4/2022)](/cvs/Tam_CV_2022.pdf)
+
+**Website:** [https://sites.google.com/illinois.edu/rachel-tam/home](https://sites.google.com/illinois.edu/rachel-tam/home)
+
+**Twitter**: [https://twitter.com/RachelTam2](https://twitter.com/RachelTam2)
+
+**ORCID:** [0000-0002-3415-3879](https://orcid.org/0000-0002-3415-3879)
+
+**Pronouns**: she/her
+
+---
+## Bio
+Rachel is a graduate student in the Department of Atmospheric Science at University of Illinois at Urbana-Champaign since fall 2021. Her research interests include climate dynamics in models and climate sensitivity. She mainly uses climate model output to understand cloud feedback sources of spread and investigates how the recent cloud feedback pattern responds to the atmospheric environmental changes. 
+
+In her undergraduate years at University of California, San Diego, she did her Bachelor of Science in Oceanic and Atmospheric Sciences at Scripps Institution of Oceanography. She worked on organizing ocean properties data while learning the seasonal cycle of Arctic clouds with satellite data as a student researcher. 
+
+Rachel enjoys everything related to food and traveling. She takes pictures of her shoes along the way and keeps a photo log of the places she goes, including her road trips along the west coast and through eastern Canada. Feel free to reach out to chat about clouds, climate, and condiments! 
+
+---
+## Featured work
+Coming soon! :)
