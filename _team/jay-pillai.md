@@ -29,6 +29,6 @@ Jay grew up in the south suburbs of Chicago. He tutors students in the College o
 
 ---
 ## Featured work
-**Pallai**, Needham, Branson, and Randall. A conceptual model for tropical and substropical interactions. *CLIVAR Pattern Effect Workshop*, Boulder, CO, 2022. (Poster)
+**Pallai**, Needham, Branson, and Randall. A conceptual model for tropical and substropical interactions. *CLIVAR Pattern Effect Workshop*, Boulder, CO, 2022. [Link to poster.](/posters/Pillai_CLIVARPoster2022PDF.pdf)
 
 **Pallai**, Needham, Branson, and Randall. A simple model for tropical and substropical interactions. *American Geophysical Union Fall Meeting*, New Orleans, LA, 2021. (Poster)
