@@ -1,7 +1,7 @@
 ---
 title: "Abby McDonnell"
 date: 2018-12-20T13:44:30+10:00
-image: "images/team/abby.png"
+image: "images/team/abby_prof.png"
 jobtitle: "Undergraduate student"
 linkedinurl: ""
 promoted: false
