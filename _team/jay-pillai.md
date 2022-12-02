@@ -1,7 +1,7 @@
 ---
 title: "Jay Pillai"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/jay.png"
 jobtitle: "Undergraduate student"
 linkedinurl: ""
 promoted: false
