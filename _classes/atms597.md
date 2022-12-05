@@ -1,5 +1,5 @@
 ---
-title: EOL 593/ATMS 597 - Statistics & Machine Learning
+title: GEOL 593/ATMS 597 - Statistics & Machine Learning
 date: 2022-10-7T15:14:54+10:00
 weight: 3
 ---
