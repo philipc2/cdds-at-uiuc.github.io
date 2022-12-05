@@ -8,6 +8,8 @@ Atmosphere, oceans, biomass, glaciers and land surface as interacting components
 
 ![Pattern effect](/images/figures/enso_ssta_2015-2016.png)
 
+_Figure taken from NASA.gov_
+
 ## Group members involved
 [Adam Bauer](https://cdds-at-uiuc.github.io/team/adam-bauer/), [Tyler Hanke](https://cdds-at-uiuc.github.io/team/tyler-hanke/), [Pappu Paul](https://cdds-at-uiuc.github.io/team/pappu-paul/), [Maddie Stover](https://cdds-at-uiuc.github.io/team/maddie-stover/), [Rachel Tam](https://cdds-at-uiuc.github.io/team/rachel-tam/), [Jay Pillai](https://cdds-at-uiuc.github.io/team/jay-pillai/)
 
