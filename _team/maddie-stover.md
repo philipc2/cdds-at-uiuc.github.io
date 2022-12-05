@@ -1,7 +1,7 @@
 ---
 title: "Maddie Stover"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/placeholder.png"
 jobtitle: "Graduate student"
 linkedinurl: ""
 promoted: false
