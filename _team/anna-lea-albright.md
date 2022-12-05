@@ -1,7 +1,7 @@
 ---
 title: "Anna Lea Albright"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/annalea.png"
 jobtitle: "Alumni"
 linkedinurl: ""
 promoted: false
