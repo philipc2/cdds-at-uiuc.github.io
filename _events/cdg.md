@@ -6,8 +6,6 @@ weight: 1
 
 The Climate Discussion Group is a student-led, biweekly reading group that discusses climate science-related papers.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
-
 ## Students-in-charge
 Adam Bauer, Tyler Hanke, and Rachel Tam
 

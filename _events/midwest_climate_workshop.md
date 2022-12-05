@@ -4,19 +4,16 @@ date: 2022-10-7T15:14:54+10:00
 weight: 4
 ---
 
-Short description goes here.
+Building connections between climate scientsits at the University of Chicago, the University of Illiois at Urbana Champaign, Purdue University, and University of Wisconsin (Madison).
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+## Dates and location
+Date: September 12 - 13, 2022.
 
-## Organizer(s)
-**Cristi Proistosescu**, et al ?
+Location: Purdue University, West Lafayette, Indiana.
 
----
-# Logistics
-## Format
+## Organizing committee
+Daniel Cziczo, Purdue University (co-chair)
 
+**Cristian Proistosescu, University of Illinois Urbana-Champaign (co-chair)**
 
-## Schedule
-
-
-## Location
+Tiffany Shaw, University of Chicago (co-chair)
