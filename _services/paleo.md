@@ -6,7 +6,9 @@ weight: 3
 
 Using past climate proxies to constrain future climate projections. 
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Paleo](/images/figures/paleo_figgy.jpeg)
+
+_Figure taken from the IPCC AR6._
 
 ## Group members involved
 
