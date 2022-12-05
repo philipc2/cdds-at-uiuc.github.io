@@ -6,18 +6,17 @@ weight: 5
 
 We are studying how climate risk impacts the cost of carbon dioxide emissions.
 
-![Solar Panels](/images/climate-econ-header.jpg)
+![Optimal paths](/images/figures/11-14-2022-pref-runs.pngs)
 
 ## Group members involved
 [Adam Bauer](https://cdds-at-uiuc.github.io/team/adam-bauer/)
 
 ---
-
 # Research questions
 
 ## How does climate risk impact the cost of carbon?
 
-Climate-economy integrated assessment models (IAMs) are the state-of-the-art tool policymakers use to assess the benefits and costs of climate policy. Conventional IAMs generally assess the benefits and costs of climate policy within a "neoclassical growth" framework. However, such models struggle to comprehensively incoroporate risk in their policy recommendations. Recently, financial asset pricing models have been implemented to better understand how risk impacts CO<sub>2</sub> prices, but lack accurate climate emulation. We're working to update `EZClimate`, a financial asset pricing based IAM, to be in line with the sixth assessment report issued by the IPCC, including implementing a simple climate emulator in the model framework.
+Climate-economy integrated assessment models (IAMs) are the state-of-the-art tool policymakers use to assess the benefits and costs of climate policy. Conventional IAMs generally assess the benefits and costs of climate policy within a Ramsey growth framework. However, such models struggle to comprehensively incoroporate risk in their policy recommendations. We're working to use methods from financial asset pricing to directly include risk considerations in climate policy recommendations. Specifically, we built the `Climate Asset Pricing model -- AR6`, a financial asset pricing based IAM (built off [`EZClimate`](https://doi.org/10.1073/pnas.1817444116)), with each of its components being in-line with the sixth assessment report issued by the IPCC.
 
 ---
 
