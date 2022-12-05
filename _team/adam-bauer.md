@@ -13,7 +13,7 @@ weight: 2
 
 **Email:** adammb4 [at] illinois [dot] edu 
 
-**CV**: [Link (last updated 10/26/2022)](/cvs/Bauer_CV.pdf)
+**CV**: [Link (last updated 12/5/2022)](/cvs/Bauer_CV.pdf)
 
 **Website:** [https://adam-bauer-34.github.io/](https://adam-bauer-34.github.io/)
 
