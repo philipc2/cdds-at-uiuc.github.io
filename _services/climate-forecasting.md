@@ -12,7 +12,7 @@ _Figure taken from Sherwood et al., 2020._
 
 ## Group members involved
 
-[Abby McDonnell](https://cdds-at-uiuc.github.io/team/abby-mcdonnell/), [Anna Lea Albright](https://cdds-at-uiuc.github.io/team/anna-lea-albright/)
+[Abby McDonnell](https://cdds-at-uiuc.github.io/team/abby-mcdonnell/)
 
 ---
 

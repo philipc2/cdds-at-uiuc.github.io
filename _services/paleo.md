@@ -12,7 +12,7 @@ _Figure taken from the IPCC AR6._
 
 ## Group members involved
 
-[Maile Sasaki](https://cdds-at-uiuc.github.io/team/maile-sasaki/), [Anay Patel](https://cdds-at-uiuc.github.io/team/anay-patel/), [Becca Stout](https://cdds-at-uiuc.github.io/team/becca-stout/)
+[Maile Sasaki](https://cdds-at-uiuc.github.io/team/maile-sasaki/), [Anay Patel](https://cdds-at-uiuc.github.io/team/anay-patel/)
 
 ---
 
