@@ -26,7 +26,6 @@ Pangeo community. Our work is conducted under an open development model that enc
 participation of the community in all aspects of the project’s development. As a result of this, the
 brand new Python package, UXarray, has been created.
 
-
 ---
 # Highlighted work
 Coming soon, hopefully.
