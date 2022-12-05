@@ -2,10 +2,10 @@
 title: "Jennifer Chen"
 date: 2018-12-20T13:44:23+10:00
 image: "images/team/vince-fleming-613817-unsplash.jpg"
-jobtitle: "Undergraduate student"
+jobtitle: "Alumni"
 linkedinurl: "https://www.linkedin.com/"
 promoted: false
-weight: 9
+weight: 14
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
+Jennifer is an undergraduate student at the University of Illinois at Urbana Champaign. She worked with Cristi to port general circulation models onto the SESE computing cluster, Keeling.

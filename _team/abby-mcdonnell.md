@@ -5,7 +5,7 @@ image: "images/team/abby.png"
 jobtitle: "Undergraduate student"
 linkedinurl: ""
 promoted: false
-weight: 11
+weight: 10
 ---
 
 ---

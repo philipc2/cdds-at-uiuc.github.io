@@ -4,7 +4,7 @@ date: 2018-12-20T13:44:55+10:00
 image: "images/team/anay.png"
 jobtitle: "Undergraduate student"
 promoted: false
-weight: 13
+weight: 12
 ---
 
 ---
