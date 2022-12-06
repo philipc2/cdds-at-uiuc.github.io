@@ -3,7 +3,7 @@ title: "Adam Bauer"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/adam.png"
 jobtitle: "Graduate student"
-cvlink: “/cvs/Bauer_CV.pdf“
+cvlink: /cvs/Bauer_CV.pdf
 promoted: false
 weight: 2
 ---
