@@ -3,7 +3,6 @@ title: "Anna Lea Albright"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/annalea.png"
 jobtitle: "Alumni"
-linkedinurl: ""
 promoted: false
 weight: 13
 ---

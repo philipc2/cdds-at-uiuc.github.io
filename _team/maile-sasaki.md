@@ -3,6 +3,7 @@ title: "Maile Sasaki"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/maile.png"
 jobtitle: "Graduate student"
+cvlink: /cvs/cv_11_17_22_mailes.pdf
 promoted: false
 weight: 5
 --- 

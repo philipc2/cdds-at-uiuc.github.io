@@ -3,6 +3,7 @@ title: "Anay Patel"
 date: 2018-12-20T13:44:55+10:00
 image: "images/team/anay.png"
 jobtitle: "Undergraduate student"
+cvlink: /cvs/AnayPatel-Fall2022ResumeV2.pdf
 promoted: false
 weight: 12
 ---

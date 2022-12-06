@@ -3,7 +3,7 @@ title: "Pappu Paul"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/pappu.png"
 jobtitle: "Graduate student"
-linkedinurl: ""
+cvlink: /cvs/paul_cv.pdf
 promoted: false
 weight: 4
 ---

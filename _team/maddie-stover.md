@@ -3,7 +3,7 @@ title: "Maddie Stover"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/maddie.png"
 jobtitle: "Graduate student"
-linkedinurl: ""
+cvlink: /cvs/CV_Madeline_Stover.pdf
 promoted: false
 weight: 6
 ---

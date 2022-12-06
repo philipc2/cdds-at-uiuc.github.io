@@ -3,7 +3,7 @@ title: "Rachel Tam"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/rachel.png"
 jobtitle: "Graduate student"
-linkedinurl: ""
+cvlink: /cvs/Tam_CV_2022.pdf
 promoted: false
 weight: 7
 ---

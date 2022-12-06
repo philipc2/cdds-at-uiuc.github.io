@@ -3,7 +3,6 @@ title: "Jennifer Chen"
 date: 2018-12-20T13:44:23+10:00
 image: "images/team/placeholder.png"
 jobtitle: "Alumni"
-linkedinurl: "https://www.linkedin.com/"
 promoted: false
 weight: 14
 ---

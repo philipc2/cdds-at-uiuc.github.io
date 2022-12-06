@@ -3,7 +3,6 @@ title: "Philip Chmielowiec"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/philip.png"
 jobtitle: "Undergraduate student"
-linkedinurl: "https://www.linkedin.com/example2"
 promoted: false
 weight: 9
 ---

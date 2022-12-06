@@ -3,7 +3,7 @@ title: "Joseph Abi Karam"
 date: 2018-12-20T13:44:30+10:00
 image: "images/team/joseph.png"
 jobtitle: "Undergraduate student"
-linkedinurl: ""
+cvlink: /cvs/abi_karam_cv.pdf
 promoted: false
 weight: 8
 ---
