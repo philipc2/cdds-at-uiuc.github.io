@@ -3,7 +3,7 @@ title: "Cristian (Cristi) Proistosescu"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/cristi.png"
 jobtitle: "Principle Investigator, Assistant Professor of Atmospheric Sciences and Geology"
-cv: "/cvs/CProistosescu_CV_120522.pdf"
+cvlink: "/cvs/CProistosescu_CV_120522.pdf"
 promoted: true
 weight: 1
 ---
