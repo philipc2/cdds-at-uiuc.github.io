@@ -2,11 +2,13 @@
 title: "Cristian (Cristi) Proistosescu"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/cristi.png"
-jobtitle: "Principle Investigator, Assistant Professor of Atmospheric Sciences and Geology"
+jobtitle: "Principle Investigator"
 cvlink: "/cvs/CProistosescu_CV_120522.pdf"
 promoted: true
 weight: 1
 ---
+
+Cristi is an Assistant Professor in the Department of Atmospheric Sciences and the Department of Geology at the University of Illinois at Urbana Champaign.
 
 ---
 ## Quick hitters
