@@ -15,7 +15,7 @@ weight: 2
 
 **CV**: [Link (last updated 12/5/2022)](/cvs/Bauer_CV.pdf)
 
-**Website:** [www.ambauer.com](www.ambauer.com)
+**Website:** [www.ambauer.com](https://www.ambauer.com/)
 
 **LinkedIn**: [https://www.linkedin.com/in/adam-michael-bauer-380492200/](https://www.linkedin.com/in/adam-michael-bauer-380492200/)
 
