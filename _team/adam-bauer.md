@@ -1,7 +1,7 @@
 ---
 title: "Adam Bauer"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/placeholder.png"
+image: "images/team/adam.png"
 jobtitle: "Graduate student"
 linkedinurl: “https://www.linkedin.com/in/adam-michael-bauer-380492200/“
 promoted: false
