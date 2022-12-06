@@ -1,7 +1,7 @@
 ---
 title: "Joseph Abi Karam"
 date: 2018-12-20T13:44:30+10:00
-image: "images/team/placeholder.png"
+image: "images/team/joseph.png"
 jobtitle: "Undergraduate student"
 linkedinurl: ""
 promoted: false
