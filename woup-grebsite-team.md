@@ -1,5 +1,5 @@
 ---
-title: Woup Grebsite Legacy Team Members
+title: CDDS@UIUC Woup Grebsite Committee Members, past and present
 permalink: "woup-grebsite-team"
 ---
 
