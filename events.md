@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # CDDS@UIUC events
 
-See below for events we organize.
+See below for events we organize both at UIUC and elsewhere!
