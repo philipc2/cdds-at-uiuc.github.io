@@ -10,6 +10,6 @@ permalink: "woup-grebsite-team"
 
 [Philip Chmielowiec](https://cdds-at-uiuc.github.io/team/philip-chmielowiec/)
 
-[Rachel Tam](https://cdds-at-uiuc.github.io/team/rachel-tam/)
-
 [Maile Sasaki](https://cdds-at-uiuc.github.io/team/maile-sasaki/)
+
+[Rachel Tam](https://cdds-at-uiuc.github.io/team/rachel-tam/)
