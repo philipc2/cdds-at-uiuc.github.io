@@ -53,6 +53,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jemoji
 
 exclude:
   - Gemfile
