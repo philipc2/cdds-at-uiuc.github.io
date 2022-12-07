@@ -6,9 +6,9 @@ weight: 3
 
 Using past climate proxies to constrain future climate projections. 
 
-![Paleo](/images/figures/paleo_figgy.jpeg "Figure taken from the IPCC's AR6.")
-
-_Figure taken from the IPCC AR6._
+| ![Paleo](/images/figures/paleo_figgy.jpeg) |
+|:--:| 
+| *Figure taken from the IPCC's AR6.* |
 
 ## Group members involved
 

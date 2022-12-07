@@ -6,7 +6,9 @@ weight: 4
 
 We are interested in formulating conceptual models that explain the fundamental physics of extreme temperature events.
 
-![Temperature-soil moisture phase space.](/images/figures/10-11-2022-3ps.png "Figure taken from in-prep manuscript by CDDS@UIUC.")
+| ![Temperature-soil moisture phase space.](/images/figures/10-11-2022-3ps.png) |
+|:--:| 
+| *Figure taken from in-prep manuscript by CDDS@UIUC.* |
 
 ## Group members involved
 [Adam Bauer](https://cdds-at-uiuc.github.io/team/adam-bauer/)
