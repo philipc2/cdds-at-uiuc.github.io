@@ -4,10 +4,10 @@ permalink: "woup-grebsite-team"
 ---
 
 ## Fall 2022 -- present
-[Adam Bauer](https://cdds-at-uiuc.github.io/team/adam-bauer/) :cowboy_hat_face:
+[Adam Bauer :cowboy_hat_face:](https://cdds-at-uiuc.github.io/team/adam-bauer/)
 
-[Philip Chmielowiec](https://cdds-at-uiuc.github.io/team/philip-chmielowiec/) :smiley_cat:
+[Philip Chmielowiec](https://cdds-at-uiuc.github.io/team/philip-chmielowiec/) 
 
 [Maile Sasaki](https://cdds-at-uiuc.github.io/team/maile-sasaki/)
 
-[Rachel Tam](https://cdds-at-uiuc.github.io/team/rachel-tam/)
+[Rachel Tam :smiley_cat:](https://cdds-at-uiuc.github.io/team/rachel-tam/)
