@@ -5,10 +5,11 @@ permalink: "woup-grebsite-team"
 
 ## Curators of the woup grebsite
 
-Adam Bauer (2022 --)
+### Fall 2022 --
+[Adam Bauer](https://cdds-at-uiuc.github.io/team/adam-bauer/)
 
-Philip Chemmmadskf (2022 --)
+[Philip Chmielowiec](https://cdds-at-uiuc.github.io/team/philip-chmielowiec/)
 
-Rachel Tam (2022 --)
+[Rachel Tam](https://cdds-at-uiuc.github.io/team/rachel-tam/)
 
-Maile Sasaki (2022 --)
+[Maile Sasaki](https://cdds-at-uiuc.github.io/team/maile-sasaki/)
