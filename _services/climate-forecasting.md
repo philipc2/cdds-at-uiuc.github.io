@@ -6,9 +6,7 @@ weight: 2
 
 Refine climate models projection by providing constraints with historical observation and evaluating model skills for future planning and risk evaluations. 
 
-![Warming projections](/images/figures/warming_figgy.jpeg)
-
-_Figure taken from Sherwood et al., 2020._
+![Warming projections](/images/figures/warming_figgy.jpeg "Figure taken from Sherwood et al., 2020.")
 
 ## Group members involved
 
