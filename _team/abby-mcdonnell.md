@@ -23,4 +23,5 @@ Abby grew up in Cary, Illinois and is happy that she is close to home while atte
 
 ---
 ## Featured work
-Coming soon! :)
+
+A. McDonnell, A. M. Bauer, C. Proistosescu. Evaluating constraints on future cliamte change based on model skill over the historical record. American Geophysical Union Fall Meeting, Chicago, IL 2022. [Poster](/posters/mcdonnell_agu2022_poster.pdf)
