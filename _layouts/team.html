@@ -14,11 +14,13 @@ bodyClass: "page-team"
   </div>
 </div>
 
-<div class="container">
+<div class="container right-align-class">
   <div class="col-sm-8">
+    {% if team.image %}
     <div class="team-image">
       <img width="150" height="150" class="img-fluid mb-2" src="{{ team.image | relative_url }}">
     </div>
+    {% endif %}
   </div>
 </div>
      
