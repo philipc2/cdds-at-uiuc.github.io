@@ -13,7 +13,7 @@ weight: 8
 
 **Email:** jja7 [at] illinois [dot] edu 
 
-**CV**: [Link (last updated 11/19/2022)](/cvs/abi_karam_cv.pdf)
+**CV**: [Link (last updated 1/4/2023)](/cvs/abi_karam_cv.pdf)
 
 **Handshake:** [https://app.joinhandshake.com/stu/users/32837183](https://app.joinhandshake.com/stu/users/32837183)
 
