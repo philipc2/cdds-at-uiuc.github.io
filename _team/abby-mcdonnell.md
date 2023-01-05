@@ -13,6 +13,8 @@ weight: 10
 
 **Email:** amm18 [at] illinois [dot] edu 
 
+**CV**: [Link (last updated 1/5/2023)](/cvs/mcdonnell_cv.pdf)
+
 **Pronouns**: she/her
 
 ---
