@@ -13,7 +13,7 @@ weight: 2
 
 **Email:** adammb4 [at] illinois [dot] edu 
 
-**CV**: [Link (last updated 12/5/2022)](/cvs/Bauer_CV.pdf)
+**CV**: [Link (last updated 1/9/2023)](/cvs/Bauer_CV.pdf)
 
 **Website:** [www.ambauer.com](https://www.ambauer.com/)
 
