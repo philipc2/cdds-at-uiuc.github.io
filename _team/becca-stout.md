@@ -1,7 +1,7 @@
 ---
 title: "Becca Stout"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/placeholder.png"
+image: "images/team/becca.png"
 jobtitle: "Alumni"
 linkedinurl: ""
 promoted: false
