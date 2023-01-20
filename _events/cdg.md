@@ -4,7 +4,7 @@ date: 2022-10-7T15:14:54+10:00
 weight: 1
 ---
 
-The Climate Discussion Group is a student-led, biweekly reading group that discusses climate science-related papers.
+The Climate Discussion Group is a student-led, weekly reading group that discusses climate science-related papers.
 
 ## Students-in-charge
 [Adam Bauer](https://cdds-at-uiuc.github.io/team/adam-bauer/), [Tyler Hanke](https://cdds-at-uiuc.github.io/team/tyler-hanke/), and [Rachel Tam](https://cdds-at-uiuc.github.io/team/rachel-tam/)
