@@ -3,7 +3,7 @@ title: "Abby McDonnell"
 date: 2018-12-20T13:44:30+10:00
 image: "images/team/abby.png"
 jobtitle: "Undergraduate student"
-linkedinurl: ""
+cvlink: /cvs/mcdonnell_cv.pdf
 promoted: false
 weight: 10
 ---
