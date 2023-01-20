@@ -25,6 +25,4 @@ Weekly meetings of the CDG take place at *3:30 CT*, and last about an hour.
 **Virtual component**: Email a student-in-charge for the link.
 
 ## Papers presented 
-| Date | Paper | Link |
-|:----:|:-----:|:----:| 
-| 1.26.2023 | Hawkins, E. and Sutton, R. The potential to narrow uncertainty in regional climate projections. _BAMS_, 90(8), 2009. | [Link.](https://journals.ametsoc.org/view/journals/bams/90/8/2009bams2607_1.xml)|
+1.26.2023: Hawkins, E. and Sutton, R. The potential to narrow uncertainty in regional climate projections. _BAMS_, 90(8), 2009 [Link.](https://journals.ametsoc.org/view/journals/bams/90/8/2009bams2607_1.xml)
