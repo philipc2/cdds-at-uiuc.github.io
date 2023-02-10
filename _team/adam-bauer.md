@@ -33,6 +33,8 @@ Adam grew up in Buffalo, New York, an upbringing that prepared him well for the 
 
 ---
 ## Featured work
+**Bauer, A. M.**, Vargas Zeppetello, L. R., **Proistosescu, C.** Soil moisture modulation of midlatitude heat waves. _In review, Nature Geoscience_. ([preprint](https://doi.org/10.31223/X59H3H))
+
 M. Pascale, B. L. Frye, L. Dai, N. Foo, Y. Qin, R. Leimbach, **A. M. Bauer**, E. Merlin, D. Coe, J. Diego, H. Yan, A. Zitrin, S. H. Cohen, C. Conselice, H. Dole, K. Harrington, R. A. Jansen, P. Kamienski, R. A. Windhorst, M. Yun. Possible Ongoing Merger Discovered by Photometry and Spectroscopy in the Field of the Galaxy Cluster PLCK G165.7+67.0. *The Astrophysical Journal*, 932(85), 2022. [https://doi.org/10.3847/1538-4357/ac6ce9](https://doi.org/10.3847/1538-4357/ac6ce9)
 
 **A. M. Bauer**, A. Cardenas-Avendano, C. F. Gammie, N. Yunes. Spherical accretion in alternative theories of gravity.  *The Astrophysical Journal*, 925(2), 2022. [https://doi.org/10.3847/1538-4357/ac3a03](https://doi.org/10.3847/1538-4357/ac3a03) 

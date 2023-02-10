@@ -26,3 +26,9 @@ Weekly meetings of the CDG take place at *3:30 CT*, and last about an hour.
 
 ## Papers presented 
 1.26.2023: Hawkins, E. and Sutton, R. The potential to narrow uncertainty in regional climate projections. _BAMS_, 90(8), 2009. [Link.](https://journals.ametsoc.org/view/journals/bams/90/8/2009bams2607_1.xml)
+
+2.2.2023: Lehner, F. _et al._ Partitioning climate projection uncertainty with multiple large ensembles and CMIP5/6. _Earth Systems Dynamics_, 11, 2020. [Link.](https://esd.copernicus.org/articles/11/491/2020/)
+
+2.9.2023: No paper presented (special seminar in geology and atmospheric science).
+
+2.16.2023: Damon Matthews, H. _et al._ An integrated approach to quantifying the uncertainties in the remaining carbon budget. _Commun Earth Environ_, 2(7), 2021. [Link.](https://www.nature.com/articles/s43247-020-00064-9#citeas)

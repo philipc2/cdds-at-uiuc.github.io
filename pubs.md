@@ -11,6 +11,8 @@ bodyClass: page-about
 
 ## Submitted
 
+**Bauer, A. M.**, Vargas Zeppetello, L. R., **Proistosescu, C.** Soil moisture modulation of midlatitude heat waves. _In review, Nature Geoscience_. ([preprint](https://doi.org/10.31223/X59H3H))
+
 **Proistosescu, C.**, Battisti, D.S., Armour, K.C., Roe, G.H. Equilibrium climate sensitivity controls regional warming uncertainty. _In review, Nature Climate Change_.
 
 ---
