@@ -1,7 +1,7 @@
 ---
 title: "Tyler Hanke"
 date: 2018-12-20T13:45:06+10:00
-image: "images/team/placeholder.png"
+image: "images/team/tyler.png"
 jobtitle: "Graduate student"
 cvlink: /cvs/tyler_hanke_cv.docx
 promoted: false

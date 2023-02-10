@@ -4,7 +4,7 @@ date: 2022-10-7T15:14:54+10:00
 weight: 1
 ---
 
-The Climate Discussion Group is a student-led, biweekly reading group that discusses climate science-related papers.
+The Climate Discussion Group is a student-led, weekly reading group that discusses climate science-related papers.
 
 ## Students-in-charge
 [Adam Bauer](https://cdds-at-uiuc.github.io/team/adam-bauer/), [Tyler Hanke](https://cdds-at-uiuc.github.io/team/tyler-hanke/), and [Rachel Tam](https://cdds-at-uiuc.github.io/team/rachel-tam/)
@@ -17,7 +17,7 @@ The basic format of our meetings is pretty simple: we select a paper to read as 
 CDG is very informal, and students of all levels are welcome! *Please email a student-in-charge to get added to the listserv and get any more details.*
 
 ## Schedule for spring 2023 semester.
-Weekly meetings of the CDG take place at *3:30 CT*, and last about an hour. 
+Weekly meetings of the CDG take place on *Thursdays at 3:30 CT*, and last about an hour. 
 
 ## Location
 **In person section**: Wanless Conference Room, Natural History Building, Room 4047. 
