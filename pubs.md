@@ -17,9 +17,13 @@ bodyClass: page-about
 
 ---
 
-## Published
+## Current working papers
 
 **Bauer, A. M.**, **Proistosescu, C.**, Wagner, G. Carbon Dioxide as a Risky Asset. _CESifo Working Paper No. 10278_ and _CEEP Working Paper No. 23_, 2023. [Link to _CESifo_.](https://www.cesifo.org/en/publications/2023/working-paper/carbon-dioxide-risky-asset) [Link to _CEEP_.](https://ceep.columbia.edu/content/working-papers)
+
+---
+
+## Published
 
 Huybers, P., Liautaud, P., **Proistosescu, C.** , Boulahanis, B.,  Carbotte, S. M., Katz, R. F., Langmuir, C. Influence of late Pleistocene sea-level variations on mid-ocean ridge spacing in faulting simulations and a global analysis of bathymetry. _Proceedings of the National Academy of Sciences_, 119(28), 2022. [https://doi.org/10.1073/pnas.2204761119](https://doi.org/10.1073/pnas.2204761119)
 
