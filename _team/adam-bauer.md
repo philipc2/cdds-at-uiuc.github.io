@@ -33,14 +33,11 @@ Adam grew up in Buffalo, New York, an upbringing that prepared him well for the 
 
 ---
 ## Featured work
-**Bauer, A. M.**, Vargas Zeppetello, L. R., **Proistosescu, C.** Soil moisture modulation of midlatitude heat waves. _In review, Nature Geoscience_. ([preprint](https://doi.org/10.31223/X59H3H))
 
-M. Pascale, B. L. Frye, L. Dai, N. Foo, Y. Qin, R. Leimbach, **A. M. Bauer**, E. Merlin, D. Coe, J. Diego, H. Yan, A. Zitrin, S. H. Cohen, C. Conselice, H. Dole, K. Harrington, R. A. Jansen, P. Kamienski, R. A. Windhorst, M. Yun. Possible Ongoing Merger Discovered by Photometry and Spectroscopy in the Field of the Galaxy Cluster PLCK G165.7+67.0. *The Astrophysical Journal*, 932(85), 2022. [https://doi.org/10.3847/1538-4357/ac6ce9](https://doi.org/10.3847/1538-4357/ac6ce9)
+**A. M. Bauer**, **C. Proistosescu**, G. Wagner. Carbon Dioxide as a Risky Asset. _CESifo Working Paper No. 10278_ and _CEEP Working Paper No. 23_, 2023. [Link to _CESifo_.](https://www.cesifo.org/en/publications/2023/working-paper/carbon-dioxide-risky-asset) [Link to _CEEP_.](https://ceep.columbia.edu/content/working-papers)
+
+**A. M. Bauer**,  L. R. Vargas Zeppetello, **C. Proistosescu** Soil moisture modulation of midlatitude heat waves. _In review, Nature Geoscience_. ([preprint](https://doi.org/10.31223/X59H3H))
 
 **A. M. Bauer**, A. Cardenas-Avendano, C. F. Gammie, N. Yunes. Spherical accretion in alternative theories of gravity.  *The Astrophysical Journal*, 925(2), 2022. [https://doi.org/10.3847/1538-4357/ac3a03](https://doi.org/10.3847/1538-4357/ac3a03) 
 
 **A. Bauer**, P. Carter. Existence of transonic solutions in the stellar wind problem with viscosity and heat conduction. *SIAM Journal on Applied Dynamical Systems*, 20(1), 2021. [https://doi.org/10.1137/20M1314240](https://doi.org/10.1137/20M1314240).
-
-**A. M. Bauer** and B. L. Frye. THELI Reduction Software: A write up for inexperienced data reducers. 2019. [Link to blog post.](https://www.cloudynights.com/topic/679713-write-up-for-inexperienced-theli-users/)
-
-B. L. Frye, M. Pascale, Y. Qin, A. Zitrin, J. Diego, G. Walth, H. Yan, C. J. Conselice, M. Alpaslan, **A. M. Bauer**, L. Busoni, D. Coe, S. H. Cohen, M. Dole, M. Donahue, I. Georgiev, R. A. Jansen, M. Limousin, R. Livermore, D. Normal, S. Rabien, R. A. Windhorst. PLCK G165.7+67.0: Analysis of a Massive Lensing Cluster in a Hubble Space Telescope Census of Submillimeter Giant Arcs Selected Using Planck/Herschel. *The Astrophysical Journal*, 871(51), 2019. [https://doi.org/10.3847/1538-4357/aaeff7](https://doi.org/10.3847/1538-4357/aaeff7)

@@ -22,7 +22,7 @@ Heat waves cause immense damage to society, and are broadly expected to increase
 ---
 
 # Highlighted work
-Coming soon, hopefully.
+**A. M. Bauer**,  L. R. Vargas Zeppetello, **C. Proistosescu** Soil moisture modulation of midlatitude heat waves. _In review, Nature Geoscience_. ([preprint](https://doi.org/10.31223/X59H3H))
 
 ---
 

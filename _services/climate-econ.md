@@ -24,6 +24,8 @@ Climate-economy integrated assessment models (IAMs) are the state-of-the-art too
 
 # Highlighted work
 
+**Bauer, A. M.**, **Proistosescu, C.**, Wagner, G. Carbon Dioxide as a Risky Asset. _CESifo Working Paper No. 10278_ and _CEEP Working Paper No. 23_, 2023. [Link to _CESifo_.](https://www.cesifo.org/en/publications/2023/working-paper/carbon-dioxide-risky-asset) [Link to _CEEP_.](https://ceep.columbia.edu/content/working-papers)
+
 **Proistosescu, C.** and Wagner, G. Uncertainties in Climate and Weather Extremes Increase the Cost of Carbon. _One Earth_, 2(6), 2020. [https://doi.org/10.1016/j.oneear.2020.06.002](https://doi.org/10.1016/j.oneear.2020.06.002)
 
 ---

@@ -32,3 +32,5 @@ Weekly meetings of the CDG take place on *Thursdays at 3:30 CT*, and last about 
 2.9.2023: No paper presented (special seminar in geology and atmospheric science).
 
 2.16.2023: Damon Matthews, H. _et al._ An integrated approach to quantifying the uncertainties in the remaining carbon budget. _Commun Earth Environ_, 2(7), 2021. [Link.](https://www.nature.com/articles/s43247-020-00064-9#citeas)
+
+2.23.2023: He, F. _et al._. Climate outcomes of Earth-similar worlds as a function of obliquity and rotation rate. _The Astrophysical Journal_, 933(62), 2022. [Link.](https://iopscience.iop.org/article/10.3847/1538-4357/ac6951)
