@@ -11,6 +11,8 @@ bodyClass: page-about
 
 ## Submitted
 
+Bloch-Johnson, J., Rugenstein, M.A.A., Alessi, M.J., **Proistosescu, C.**, Zhao, M., Zhang, B., Williams, A.I.L., Gregory, J.M., Cole, J., Dong, Y., Duffy, M.L., Kang, S.M., Zhou, C.: The Green’s Function Model Intercomparison Project (GFMIP) Protocol _Submited, JAMES_.
+
 **Bauer, A. M.**, Vargas Zeppetello, L. R., **Proistosescu, C.** Soil moisture modulation of midlatitude heat waves. _In review, Nature Geoscience_. ([preprint](https://doi.org/10.31223/X59H3H))
 
 Cleveland-Stout, R.,**Proistosescu, C.**, Roe, G.  Fingerprinting low-frequency Holocene temperature variability in forced and unforced climate models. _In review, Journal of Climate_
