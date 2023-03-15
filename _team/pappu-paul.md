@@ -27,7 +27,7 @@ weight: 4
 
 ---
 ## Bio
-Pappu is Ph.D. student in the Department of Physics at the University of Illinois. He is the member of CDDS@UIUC since fall 2022. He is trying to better understand the feedback loops that determine the magnitude of global warming. He run climate model simulations to understand the physics linking surface warming, atmospheric circulation, and top-of-atmosphere radiation.
+Pappu is Ph.D. student in the Department of Atmospheric Sciences at the University of Illinois. He is the member of CDDS@UIUC since fall 2022. He is trying to better understand the feedback loops that determine the magnitude of global warming. He run climate model simulations to understand the physics linking surface warming, atmospheric circulation, and top-of-atmosphere radiation.
 
 Pappu has some teaching experiences, after his master’s he joined several public and private universities in Bangladesh as a junior faculty. He did his undergraduate and master’s from the Department of Physics, University of Dhaka, Bangladesh. From his master’s time he worked numerus project related to severe weather such as thunderstorms and lightning. He has several published articles about thunderstorms and lightning prediction using numerical model.
 
