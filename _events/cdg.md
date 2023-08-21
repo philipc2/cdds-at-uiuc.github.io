@@ -14,7 +14,9 @@ The Climate Discussion Group is a student-led, weekly reading group that discuss
 ## Format
 The basic format of our meetings is pretty simple: we select a paper to read as a group, and then meet to discuss in an open forum. We also occasionally have invited speakers/UIUC students who come and give talks about their work.
 
-CDG is very informal, and students of all levels are welcome! *Please email a student-in-charge to get added to the listserv and get any more details.*
+CDG is very informal, and students of all levels are welcome! 
+
+**Please email a student-in-charge to get added to the listserv and get any more details.**
 
 ## Schedule for Fall 2023 semester.
 Weekly meetings of the CDG take place on *Thursdays at 3:30 CT*, and last about an hour. 
