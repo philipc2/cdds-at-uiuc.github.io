@@ -1,7 +1,7 @@
 ---
 title: "Philip Chmielowiec"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/philip.png"
+image: "images/team/philip.jpeg"
 jobtitle: "Alumni"
 promoted: false
 weight: 9
