@@ -19,6 +19,8 @@ weight: 13
 
 **Pronouns**: he/him
 
+**Last known location**: Graduate student at the University of Washington.
+
 ---
 ## Bio
 Jay is an undegraduate student in the Department of Physics at the University of Illinois, and has been a member of CDDS@UIUC since fall 2020. He is working on two projects: one on a conceptual model for the dynamics of marine stratocumulus clouds, and another on arctic amplification. Jay has earned a variety of scholarships as an undergraduate, including the prestigious Ernest F. Hollings Scholarship and the William M. Lapenta Scholarship (declined in favor of the Hollings).

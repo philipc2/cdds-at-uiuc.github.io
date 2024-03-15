@@ -19,6 +19,8 @@ weight: 14
 
 **Pronouns**: she/her
 
+**Last known location**: Graduate student at the University of Illinois Urbana-Champaign, working with Ryan Sriver.
+
 ---
 ## Bio
 As a graduate researcher, Maddie is interested in climate dynamics. The motivation of her current research is to improve estimates of climate sensitivity by placing an observational constraint on one of its largest sources of uncertainty: the pattern effect. She is approaching this with a Bayesian framework and is using a Gaussian process to encode the spatial pattern of radiative response. As a student and community member, Maddie is interested in science outreach and DEIJ (diversity, equity, inclusion, and justice) in academia. She serves as a diversity ambassador of the College of Engineering and is involved with various projects as a member of the education and justice working group of the Student Sustainability Committee.

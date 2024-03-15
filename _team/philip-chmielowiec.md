@@ -13,6 +13,8 @@ weight: 12
 
 **GitHub**: [Link to Philip's GitHub](https://github.com/philipc2)
 
+**Last known location**: Software developer at NCAR.
+
 ---
 ## Bio
 Philip is a 4th year undergraduate in the department of Electrical and Computer engineering at the University of Illinois. He joined CDDS@UIUC as an undergraduate intern in the summer of 2021 and has remained a member of the group since. His interests are in the intersection of computing and earth science. Whether it’s data science, machine learning, or software engineering, he is interested in the application of computing to scientific research. 
