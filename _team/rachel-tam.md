@@ -5,7 +5,7 @@ image: "images/team/rachel.png"
 jobtitle: "Graduate student"
 cvlink: /cvs/Tam_CV_2022.pdf
 promoted: false
-weight: 7
+weight: 6
 ---
 
 ---

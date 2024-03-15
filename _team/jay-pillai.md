@@ -2,10 +2,10 @@
 title: "Jay Pillai"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/jay.png"
-jobtitle: "Undergraduate student"
+jobtitle: "Alumni"
 cvlink: /cvs/JayPillai_CV.pdf
 promoted: false
-weight: 11
+weight: 13
 ---
 
 ---
