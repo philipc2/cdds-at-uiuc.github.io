@@ -17,16 +17,11 @@ Bloch-Johnson, J., Rugenstein, M.A.A., Alessi, M.J., **Proistosescu, C.**, Zhao,
 
 Cleveland-Stout, R.,**Proistosescu, C.**, Roe, G.  Fingerprinting low-frequency Holocene temperature variability in forced and unforced climate models. _In review, Journal of Climate_
 
-
----
-
-## Working papers
-
-**Bauer, A. M.**, **Proistosescu, C.**, Wagner, G. Carbon Dioxide as a Risky Asset. _CESifo Working Paper No. 10278_ and _CEEP Working Paper No. 23_, 2023. [Link to _CESifo_.](https://www.cesifo.org/en/publications/2023/working-paper/carbon-dioxide-risky-asset) [Link to _CEEP_.](https://ceep.columbia.edu/content/working-papers)
-
 ---
 
 ## Published
+
+**Bauer, A. M.**, **Proistosescu, C.**, Wagner, G. Carbon Dioxide as a Risky Asset. _Climatic Change (forthcoming)_, 2024. [_CESifo Working Paper version_](https://www.cesifo.org/en/publications/2023/working-paper/carbon-dioxide-risky-asset) [_CEEP Working Paper version_](https://ceep.columbia.edu/content/working-papers)
 
 Wills, R.C., Dong, Y., **Proistosecu, C.**, Armour, K.C. and Battisti, D.S., 2022. Systematic Climate Model Biases in the Large‐Scale Patterns of Recent Sea‐Surface Temperature and Sea‐Level Pressure Change. _Geophysical Research Letters_, 49(17), [https://doi.org/10.1029/2022GL100011](https://doi.org/10.1029/2022GL100011)
 
