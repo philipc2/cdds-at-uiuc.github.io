@@ -13,7 +13,9 @@ weight: 4
 
 **Email:** pappup2 [at] illinois [dot] edu 
 
-**CV**: [Link (last updated 11/17/2022)](/cvs/paul_cv.pdf)
+**CV**: [Link (last updated 3/15/2024)](/cvs/paul_cv.pdf)
+
+**Personal website**: [https://sites.google.com/view/pappupaul/home](https://sites.google.com/view/pappupaul/home)
 
 **ResearchGate:** [https://www.researchgate.net/profile/Pappu-Paul](https://www.researchgate.net/profile/Pappu-Paul)
 

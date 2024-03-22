@@ -5,7 +5,7 @@ image: "images/team/anay.png"
 jobtitle: "Undergraduate student"
 cvlink: /cvs/AnayPatel-Fall2022ResumeV2.pdf
 promoted: false
-weight: 12
+weight: 9
 ---
 
 ---

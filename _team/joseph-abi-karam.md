@@ -5,7 +5,7 @@ image: "images/team/joseph.png"
 jobtitle: "Undergraduate student"
 cvlink: /cvs/abi_karam_cv.pdf
 promoted: false
-weight: 8
+weight: 7
 ---
 
 ---

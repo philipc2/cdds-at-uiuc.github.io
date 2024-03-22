@@ -2,10 +2,10 @@
 title: "Maddie Stover"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/maddie.png"
-jobtitle: "Graduate student"
+jobtitle: "Alumni"
 cvlink: /cvs/CV_Madeline_Stover.pdf
 promoted: false
-weight: 6
+weight: 14
 ---
 
 ---
@@ -18,6 +18,8 @@ weight: 6
 **LinkedIn**: [https://www.linkedin.com/in/madeline-stover-b7a41013a/](https://www.linkedin.com/in/madeline-stover-b7a41013a/)
 
 **Pronouns**: she/her
+
+**Last known location**: Graduate student at the University of Illinois Urbana-Champaign, working with Ryan Sriver.
 
 ---
 ## Bio

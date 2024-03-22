@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 image: "images/team/philip.jpeg"
 jobtitle: "Alumni"
 promoted: false
-weight: 9
+weight: 12
 ---
 
 ---
@@ -12,6 +12,8 @@ weight: 9
 **Email**: philipc [at] ucar [dot] edu
 
 **GitHub**: [Link to Philip's GitHub](https://github.com/philipc2)
+
+**Last known location**: Software developer at NCAR.
 
 ---
 ## Bio

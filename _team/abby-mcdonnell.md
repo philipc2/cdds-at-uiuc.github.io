@@ -5,7 +5,7 @@ image: "images/team/abby.png"
 jobtitle: "Undergraduate student"
 cvlink: /cvs/mcdonnell_cv.pdf
 promoted: false
-weight: 10
+weight: 8
 ---
 
 ---

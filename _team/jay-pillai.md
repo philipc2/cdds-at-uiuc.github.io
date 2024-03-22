@@ -2,10 +2,10 @@
 title: "Jay Pillai"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/jay.png"
-jobtitle: "Undergraduate student"
+jobtitle: "Alumni"
 cvlink: /cvs/JayPillai_CV.pdf
 promoted: false
-weight: 11
+weight: 13
 ---
 
 ---
@@ -18,6 +18,8 @@ weight: 11
 **LinkedIn**: [https://www.linkedin.com/in/jaydeep-pillai/](https://www.linkedin.com/in/jaydeep-pillai/)
 
 **Pronouns**: he/him
+
+**Last known location**: Graduate student at the University of Washington.
 
 ---
 ## Bio
